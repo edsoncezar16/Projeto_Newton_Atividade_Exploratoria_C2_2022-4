@@ -13,9 +13,9 @@ disciplina de Cálculo 2.
 
 ## Descrição das atividades
     
-- Limpeza e uniformização dos dados: os dados das atividades foram digitados manualmente por diversos bolsistas e disponibilizados em planilhas, então coletei os
+- [Limpeza e uniformização dos dados](./limpeza_dados_atividade_exploratoria_2022_4.ipynb): os dados das atividades foram digitados manualmente por diversos bolsistas e disponibilizados em planilhas, então coletei os
 dados das fontes disponíveis e realizei a limpeza e uniformização dos mesmos para prepará-los para a etapa de análise de dados.
-- Análise dos dados: após coletar os dados, realizei as análises solicitadas pela professora responsável da disciplina para auxiliá-la na avaliação do desempenho dos
+- [Análise dos dados](./Relatorio_Atividade_Exploratoria_C2.ipynb): após coletar os dados, realizei as análises solicitadas pela professora responsável da disciplina para auxiliá-la na avaliação do desempenho dos
 estudantes e planejar o andamento da disciplina com base no resultado das análises
 
 Um fato relevante sobre a realização dessas atividades é que elas tiveram de ser realizadas todas em um único dia, devido ao prazo estipulado para o início das aulas 
